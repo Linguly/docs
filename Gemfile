@@ -6,9 +6,6 @@ gem "jekyll", "~> 4.4.1" # installed by `gem jekyll`
 gem "just-the-docs", "0.10.1" # pinned to the current release
 # gem "just-the-docs"        # always download the latest release
 
-# Performance-booster for watching directories on Windows
-gem 'wdm', '>= 0.1.0', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
-
 gem "base64"
 gem "csv"
 

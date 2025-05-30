@@ -6,6 +6,10 @@ last_modified_date: 30.5.2025
 - TOC
 {:toc}
 
+# Ruby
+
+To serve this docs we are using [Jekyll] which requires [Ruby] to run.
+
 ## For Windows
 ### Step 1: Install Ruby 3.2 (Stable & Compatible)
 Download from the RubyInstaller archives: https://rubyinstaller.org/downloads/archives/
@@ -40,3 +44,7 @@ Go to this repo's folder:
 cd path\to\your\project
 bundle install
 ```
+
+-----
+[Ruby]: https://www.ruby-lang.org/en/
+[Jekyll]: https://jekyllrb.com/

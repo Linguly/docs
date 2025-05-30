@@ -21,9 +21,11 @@ Linguly provides you the freedom to control how you are learning a new language 
 ... to be defined
 
 
-## About Linguly
+## What is Linguly?
 
-To learn more about -> [Linguly]
+[Linguly] is a flexible and innovative language learning platform designed to adapt to various learning methods. With advancements in AI, Linguly provides a versatile environment for experimenting with different language learning techniques.
+
+To learn more -> [Linguly]
 
 ### License
 

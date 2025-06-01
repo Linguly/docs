@@ -37,8 +37,9 @@ Follow the quick installation from Coolify to install it in your server:
 - add Linguly's [Telegram Interface](https://github.com/Linguly/telegram-interface) and [Linguly Core](https://github.com/Linguly/linguly-core) using [the Github app integration](https://youtu.be/taJlPG82Ucw?feature=shared&t=1898) or just clone the latest 
     - configure the `BOT_TOKEN` and `LINGULY_CORE_BASE_URL` for the telegram interface using the environment variable
     > **NOTE**: `LINGULY_CORE_BASE_URL` can be your Linguly Core container name plus the exposed port e.g. `http://<coolify random name for the service>-<docker uuid>:3001`
-    ![](./images/container-name.png)
-    ![](./images/environment-variables.png)
+    
+    ![](../images/container-name.png)
+    ![](../images/environment-variables.png)
 
 ## 3- Setup an LLM Model
 

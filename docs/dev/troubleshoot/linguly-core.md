@@ -1,5 +1,6 @@
 ---
-title: Troubleshoot
+title: Linguly Core
+parent: Troubleshoot
 last_modified_date: 1.6.2025
 ---
 

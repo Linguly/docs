@@ -1,5 +1,6 @@
 ---
-title: Troubleshoot
+title: Docs
+parent: Troubleshoot
 last_modified_date: 1.6.2025
 ---
 

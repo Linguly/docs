@@ -1,5 +1,6 @@
 ---
-title: Development Guide
+title: Troubleshoot
+parent: Development Guide
 last_modified_date: 1.6.2025
 ---
 

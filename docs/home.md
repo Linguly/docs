@@ -18,8 +18,20 @@ Linguly provides you the freedom to control how you are learning a new language 
 ---
 
 ## Getting started
-... to be defined
 
+### Start Hosting Linguly
+
+To host and setup your Linguly instance you can follow the guides [here](https://docs.linguly.io/docs/setup/).
+
+### Start Development
+
+First of all thanks for your interest :)
+
+Secondly, to start, you need to set it up locally, which is not a big deal. Only if our documents are good enough for you.
+
+- Clone and follow [the local setup readme](https://github.com/Linguly/linguly-core?tab=readme-ov-file#local-setup) in Linguly Core
+- To try the telegram interface try [this](https://github.com/Linguly/telegram-interface?tab=readme-ov-file#how-to-run-locally)
+- And to update the documentations [here](https://github.com/Linguly/docs)
 
 ## What is Linguly?
 
